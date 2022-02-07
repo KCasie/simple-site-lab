@@ -1,0 +1,73 @@
+body {
+    box-sizing: border-box;
+    margin: 0 auto;
+    background: rgb(142, 207, 233);
+}
+
+/* Container */
+
+section {
+    border: 5px solid limegreen;
+    margin: 7% 30%;
+}
+
+/* Header */
+
+header {
+    color: white;
+    text-align: center;
+    padding-top: 3%;
+}
+
+h1 {
+    font-size: 30px;
+    font-style: italic;
+}
+
+span {
+    color: gray;
+}
+
+
+/* Links & Lists */
+
+a {
+    color: limegreen;
+}
+
+li {
+    display: inline;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+/* About Us Section */
+
+main {
+    padding: 2% 10%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -2%;
+    margin-bottom: -2%;
+}
+
+h2 {
+    padding-bottom: 1%;
+}
+
+img {
+    max-width: 30%;
+    height: auto;
+    float: right;
+    padding-bottom: 4%;
+}
+
+/* End */
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    color: gray;
+    padding-bottom: 3%;
+}
